@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry excluding="src/|resource/|libs/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="libs/com.azalea.ufl.barcode.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-configuration-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="libs/CrystalCommon2.jar"/>
+	<classpathentry kind="lib" path="libs/CrystalReportsRuntime.jar"/>
+	<classpathentry kind="lib" path="libs/cvom.jar"/>
+	<classpathentry kind="lib" path="libs/DatabaseConnectors.jar"/>
+	<classpathentry kind="lib" path="libs/icu4j.jar"/>
+	<classpathentry kind="lib" path="libs/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="libs/JDBInterface.jar"/>
+	<classpathentry kind="lib" path="libs/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/jrcerom.jar"/>
+	<classpathentry kind="lib" path="libs/keycodeDecoder.jar"/>
+	<classpathentry kind="lib" path="libs/log4j.jar"/>
+	<classpathentry kind="lib" path="libs/logging.jar"/>
+	<classpathentry kind="lib" path="libs/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="libs/pfjgraphics.jar"/>
+	<classpathentry kind="lib" path="libs/QueryBuilder.jar"/>
+	<classpathentry kind="lib" path="libs/sap.com~tc~sec~csi.jar"/>
+	<classpathentry kind="lib" path="libs/sc-oms-reporting-oms-reporting-4.04.10-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="libs/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="libs/webreporting.jar"/>
+	<classpathentry kind="lib" path="libs/webreporting-jsf.jar"/>
+	<classpathentry kind="lib" path="libs/XMLConnector.jar"/>
+	<classpathentry kind="lib" path="libs/xpp3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
