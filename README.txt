@@ -2,7 +2,7 @@ Get Eclipse Mars STS (you can download the varsion added to accurev in this fold
 Install Swing and WindowsBuild packages from this location: https://download.eclipse.org/windowbuilder/lastgoodbuild/ - this will already be installed on the eclipse provided
 Follow these instructions to install these packages: https://help.eclipse.org/2019-12/index.jsp?topic=/org.eclipse.wb.doc.user/html/installation/index.html
 
-Import ComEPR_HSF\Output_Management\ThirdPartyBinaries\RPT_Validator\RPTValidator\
+Import \RPTValidator\
 These are the steps you can follow:
 1. Open eclipse
 2. Use the workspace under the eclipse instalation
